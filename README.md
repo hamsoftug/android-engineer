@@ -35,3 +35,7 @@ Despite our small team, we believe this is a unique opportunity for someone who 
 - Health insurance
 - Investment in career development, including training, conferences, and online learning resources
 - Work from anywhere
+
+## How to apply
+
+Send a pull request or email me at ray at opareta.com
