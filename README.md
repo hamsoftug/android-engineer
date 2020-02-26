@@ -1,6 +1,6 @@
 # Android Engineer
 
-We are looking for an outstanding Android Engineer to join our small team.
+We are looking for an outstanding Android Engineer to join our team.
 
 As an Android Engineer, you will be implementing core features to deliver success to our growing customer base. You will be deeply involved in the design and development process, own goal-oriented features from conception to roll out, and help maintain and improve our current codebase.
 
