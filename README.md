@@ -4,7 +4,7 @@ We are looking for an outstanding Android Engineer to join our team.
 
 As an Android Engineer, you will be implementing core features to deliver success to our growing customer base. You will be deeply involved in the design and development process, own goal-oriented features from conception to roll out, and help maintain and improve our current codebase.
 
-Despite our small team, we believe this is a unique opportunity for someone who is seeking to make a big impact on a rapidly growing enterprise product. If you are driven by ownership and impact, we’d love to hear from you!
+Do you have a deep understanding of Android? Do hard problems excite you? Are you self driven? Would you like to make a big impact on a rapidly growing enterprise product? We’d love to hear from you! 
 
 ## What you will do
 
@@ -18,6 +18,7 @@ Despite our small team, we believe this is a unique opportunity for someone who 
 ## What we are looking for
 
 - A highly motivated and detail-oriented Android engineer
+- Sound software engineering fundamentals
 - 3+ years experience developing Android apps
 - Strong Java and/or Kotlin skills
 - Worked on at least one application published to the Google Play store
